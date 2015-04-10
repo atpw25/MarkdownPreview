@@ -1,3 +1,9 @@
+> A fork of [https://github.com/gruehle/MarkdownPreview](https://github.com/gruehle/MarkdownPreview) customized to 
+add support for code syntax highlighting. The syntax highlighting is provided by [Highlight.js](https://highlightjs.org).
+Highlight.js has been configured to enabled language detection.
+
+---
+
 # Markdown Preview
 
 A [Brackets](https://github.com/adobe/brackets) extension that provides a live preview of markdown documents. 
